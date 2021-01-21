@@ -1,0 +1,6 @@
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem04.SinglyLinkedList\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.deps.json
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem04.SinglyLinkedList\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem04.SinglyLinkedList\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem04.SinglyLinkedList\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem04.SinglyLinkedList\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csproj.CopyComplete
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem04.SinglyLinkedList\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll

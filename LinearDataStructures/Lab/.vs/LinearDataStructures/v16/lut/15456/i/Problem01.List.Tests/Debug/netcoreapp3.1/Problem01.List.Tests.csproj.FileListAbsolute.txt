@@ -1,0 +1,14 @@
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.deps.json
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.runtimeconfig.json
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\b\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.csproj.CopyComplete
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\LinearDataStructures\Lab\.vs\LinearDataStructures\v16\lut\0\i\Problem01.List.Tests\Debug\netcoreapp3.1\Problem01.List.Tests.genruntimeconfig.cache
