@@ -1,0 +1,9 @@
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb

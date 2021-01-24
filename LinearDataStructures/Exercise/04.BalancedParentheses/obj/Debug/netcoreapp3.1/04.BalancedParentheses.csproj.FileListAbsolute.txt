@@ -1,0 +1,9 @@
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+D:\SOFTUNI-COURSES\DataStructuresFundamentals\SoftUniDataStructuresFundamentals\LinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
